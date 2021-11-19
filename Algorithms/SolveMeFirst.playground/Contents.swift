@@ -11,3 +11,22 @@ func solveMeFirst(x: Int, y: Int) -> Int {
 }
 
 print(solveMeFirst(x: a, y: b))
+
+import Foundation
+
+// Complete the permutationEquation function below.
+func permutationEquation(p: [Int]) -> [Int] {
+    var a = [0]
+    a = a + p
+    var re :[Int] = []
+    for x in (1...p.count){
+        for y in (1...p.count){
+            if a[a[y]]==x{
+                re.append(y)
+            }
+        }
+    }
+    return(re)
+
+}
+

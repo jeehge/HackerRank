@@ -9,4 +9,5 @@ import Foundation
 
 print("Hello, World!")
 
-SolveMeFirst.resultPrint()
+//SolveMeFirst.resultPrint()
+CompareTheTriplets.resultPrint()

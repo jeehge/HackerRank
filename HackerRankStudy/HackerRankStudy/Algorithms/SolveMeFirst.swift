@@ -17,7 +17,7 @@ class SolveMeFirst {
         
         // 입력한 a,b 값을 더하는 함수
         func solveMeFirst(x: Int, y: Int) -> Int {
-            return x+y
+            return x + y
         }
         
         print(solveMeFirst(x: a, y: b))

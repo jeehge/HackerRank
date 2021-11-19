@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		E96412082746B94400A69ECA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96412072746B94400A69ECA /* main.swift */; };
 		E96412102746B96200A69ECA /* SolveMeFirst.swift in Sources */ = {isa = PBXBuildFile; fileRef = E964120F2746B96200A69ECA /* SolveMeFirst.swift */; };
-		E96412122746BADC00A69ECA /* CompareTheTriplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96412112746BADC00A69ECA /* CompareTheTriplets.swift */; };
+		E96412162747F2F100A69ECA /* CompareTheTriplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96412152747F2F100A69ECA /* CompareTheTriplets.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,7 +28,7 @@
 		E96412042746B94400A69ECA /* HackerRankStudy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HackerRankStudy; sourceTree = BUILT_PRODUCTS_DIR; };
 		E96412072746B94400A69ECA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		E964120F2746B96200A69ECA /* SolveMeFirst.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolveMeFirst.swift; sourceTree = "<group>"; };
-		E96412112746BADC00A69ECA /* CompareTheTriplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompareTheTriplets.swift; sourceTree = "<group>"; };
+		E96412152747F2F100A69ECA /* CompareTheTriplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompareTheTriplets.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,7 +71,7 @@
 			isa = PBXGroup;
 			children = (
 				E964120F2746B96200A69ECA /* SolveMeFirst.swift */,
-				E96412112746BADC00A69ECA /* CompareTheTriplets.swift */,
+				E96412152747F2F100A69ECA /* CompareTheTriplets.swift */,
 			);
 			path = Algorithms;
 			sourceTree = "<group>";
@@ -134,7 +134,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E96412122746BADC00A69ECA /* CompareTheTriplets.swift in Sources */,
+				E96412162747F2F100A69ECA /* CompareTheTriplets.swift in Sources */,
 				E96412102746B96200A69ECA /* SolveMeFirst.swift in Sources */,
 				E96412082746B94400A69ECA /* main.swift in Sources */,
 			);
