@@ -7,7 +7,6 @@
 
 import Foundation
 
-print("Hello, World!")
-
 //SolveMeFirst.resultPrint()
-CompareTheTriplets.resultPrint()
+//CompareTheTriplets.resultPrint()
+AVeryBigSum.resultPrint()
