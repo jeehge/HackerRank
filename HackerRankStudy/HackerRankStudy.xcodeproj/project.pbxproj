@@ -12,6 +12,7 @@
 		E96412162747F2F100A69ECA /* CompareTheTriplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96412152747F2F100A69ECA /* CompareTheTriplets.swift */; };
 		E96412182748972200A69ECA /* AVeryBigSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96412172748972200A69ECA /* AVeryBigSum.swift */; };
 		E964121A2749628A00A69ECA /* DiagonalDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96412192749628A00A69ECA /* DiagonalDifference.swift */; };
+		E987D0DD274BCD0700249FF1 /* PlusMinus.swift in Sources */ = {isa = PBXBuildFile; fileRef = E987D0DC274BCD0700249FF1 /* PlusMinus.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		E96412152747F2F100A69ECA /* CompareTheTriplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompareTheTriplets.swift; sourceTree = "<group>"; };
 		E96412172748972200A69ECA /* AVeryBigSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AVeryBigSum.swift; sourceTree = "<group>"; };
 		E96412192749628A00A69ECA /* DiagonalDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiagonalDifference.swift; sourceTree = "<group>"; };
+		E987D0DC274BCD0700249FF1 /* PlusMinus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusMinus.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				E96412152747F2F100A69ECA /* CompareTheTriplets.swift */,
 				E96412172748972200A69ECA /* AVeryBigSum.swift */,
 				E96412192749628A00A69ECA /* DiagonalDifference.swift */,
+				E987D0DC274BCD0700249FF1 /* PlusMinus.swift */,
 			);
 			path = Algorithms;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			files = (
 				E964121A2749628A00A69ECA /* DiagonalDifference.swift in Sources */,
 				E96412162747F2F100A69ECA /* CompareTheTriplets.swift in Sources */,
+				E987D0DD274BCD0700249FF1 /* PlusMinus.swift in Sources */,
 				E96412102746B96200A69ECA /* SolveMeFirst.swift in Sources */,
 				E96412182748972200A69ECA /* AVeryBigSum.swift in Sources */,
 				E96412082746B94400A69ECA /* main.swift in Sources */,

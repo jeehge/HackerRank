@@ -9,5 +9,6 @@ import Foundation
 
 //SolveMeFirst.resultPrint()
 //CompareTheTriplets.resultPrint()
-AVeryBigSum.resultPrint()
+//AVeryBigSum.resultPrint()
 //DiagonalDifference.resultPrint()
+PlusMinus.resultPrint()
