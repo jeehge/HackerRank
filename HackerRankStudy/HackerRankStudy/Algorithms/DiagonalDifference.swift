@@ -19,6 +19,7 @@ class DiagonalDifference {
 
         func diagonalDifference(arr: [[Int]]) -> Int {
             // Write your code here
+            // 첫번째 방법
             var result: [Int] = [0, 0]
             arr.enumerated().forEach { (index, a) in
                 result[0] += a[index]
