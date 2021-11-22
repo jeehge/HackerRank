@@ -11,4 +11,5 @@ import Foundation
 //CompareTheTriplets.resultPrint()
 //AVeryBigSum.resultPrint()
 //DiagonalDifference.resultPrint()
-PlusMinus.resultPrint()
+//PlusMinus.resultPrint()
+Staircase.resultPrint()
