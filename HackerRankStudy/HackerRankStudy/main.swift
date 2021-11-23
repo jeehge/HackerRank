@@ -13,4 +13,5 @@ import Foundation
 //DiagonalDifference.resultPrint()
 //PlusMinus.resultPrint()
 //Staircase.resultPrint()
-MinMaxSum.resultPrint()
+//MinMaxSum.resultPrint()
+BirthdayCakeCandles.resultPrint()
