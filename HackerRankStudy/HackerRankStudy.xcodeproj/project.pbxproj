@@ -14,6 +14,7 @@
 		E964121A2749628A00A69ECA /* DiagonalDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96412192749628A00A69ECA /* DiagonalDifference.swift */; };
 		E987D0DD274BCD0700249FF1 /* PlusMinus.swift in Sources */ = {isa = PBXBuildFile; fileRef = E987D0DC274BCD0700249FF1 /* PlusMinus.swift */; };
 		E987D0DF274BD51300249FF1 /* Staircase.swift in Sources */ = {isa = PBXBuildFile; fileRef = E987D0DE274BD51300249FF1 /* Staircase.swift */; };
+		E987D0E1274D40B400249FF1 /* MinMaxSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E987D0E0274D40B400249FF1 /* MinMaxSum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +38,7 @@
 		E96412192749628A00A69ECA /* DiagonalDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiagonalDifference.swift; sourceTree = "<group>"; };
 		E987D0DC274BCD0700249FF1 /* PlusMinus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusMinus.swift; sourceTree = "<group>"; };
 		E987D0DE274BD51300249FF1 /* Staircase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Staircase.swift; sourceTree = "<group>"; };
+		E987D0E0274D40B400249FF1 /* MinMaxSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinMaxSum.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				E96412192749628A00A69ECA /* DiagonalDifference.swift */,
 				E987D0DC274BCD0700249FF1 /* PlusMinus.swift */,
 				E987D0DE274BD51300249FF1 /* Staircase.swift */,
+				E987D0E0274D40B400249FF1 /* MinMaxSum.swift */,
 			);
 			path = Algorithms;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E964121A2749628A00A69ECA /* DiagonalDifference.swift in Sources */,
+				E987D0E1274D40B400249FF1 /* MinMaxSum.swift in Sources */,
 				E96412162747F2F100A69ECA /* CompareTheTriplets.swift in Sources */,
 				E987D0DD274BCD0700249FF1 /* PlusMinus.swift in Sources */,
 				E96412102746B96200A69ECA /* SolveMeFirst.swift in Sources */,

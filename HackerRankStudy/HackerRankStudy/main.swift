@@ -12,4 +12,5 @@ import Foundation
 //AVeryBigSum.resultPrint()
 //DiagonalDifference.resultPrint()
 //PlusMinus.resultPrint()
-Staircase.resultPrint()
+//Staircase.resultPrint()
+MinMaxSum.resultPrint()
