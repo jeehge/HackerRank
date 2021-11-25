@@ -15,4 +15,5 @@ import Foundation
 //Staircase.resultPrint()
 //MinMaxSum.resultPrint()
 //BirthdayCakeCandles.resultPrint()
-TimeConversion.resultPrint()
+//TimeConversion.resultPrint()
+GradingStudents.resultPrint()

@@ -17,6 +17,7 @@
 		E987D0E1274D40B400249FF1 /* MinMaxSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E987D0E0274D40B400249FF1 /* MinMaxSum.swift */; };
 		E987D0E3274D427F00249FF1 /* BirthdayCakeCandles.swift in Sources */ = {isa = PBXBuildFile; fileRef = E987D0E2274D427F00249FF1 /* BirthdayCakeCandles.swift */; };
 		E987D13A274FB1CA00249FF1 /* TimeConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = E987D139274FB1CA00249FF1 /* TimeConversion.swift */; };
+		E987D13C274FB2B100249FF1 /* GradingStudents.swift in Sources */ = {isa = PBXBuildFile; fileRef = E987D13B274FB2B100249FF1 /* GradingStudents.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +44,7 @@
 		E987D0E0274D40B400249FF1 /* MinMaxSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinMaxSum.swift; sourceTree = "<group>"; };
 		E987D0E2274D427F00249FF1 /* BirthdayCakeCandles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirthdayCakeCandles.swift; sourceTree = "<group>"; };
 		E987D139274FB1CA00249FF1 /* TimeConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeConversion.swift; sourceTree = "<group>"; };
+		E987D13B274FB2B100249FF1 /* GradingStudents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradingStudents.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				E987D0E0274D40B400249FF1 /* MinMaxSum.swift */,
 				E987D0E2274D427F00249FF1 /* BirthdayCakeCandles.swift */,
 				E987D139274FB1CA00249FF1 /* TimeConversion.swift */,
+				E987D13B274FB2B100249FF1 /* GradingStudents.swift */,
 			);
 			path = Algorithms;
 			sourceTree = "<group>";
@@ -159,6 +162,7 @@
 				E987D0E1274D40B400249FF1 /* MinMaxSum.swift in Sources */,
 				E987D0E3274D427F00249FF1 /* BirthdayCakeCandles.swift in Sources */,
 				E96412162747F2F100A69ECA /* CompareTheTriplets.swift in Sources */,
+				E987D13C274FB2B100249FF1 /* GradingStudents.swift in Sources */,
 				E987D0DD274BCD0700249FF1 /* PlusMinus.swift in Sources */,
 				E96412102746B96200A69ECA /* SolveMeFirst.swift in Sources */,
 				E987D13A274FB1CA00249FF1 /* TimeConversion.swift in Sources */,
