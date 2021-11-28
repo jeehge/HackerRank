@@ -16,4 +16,5 @@ import Foundation
 //MinMaxSum.resultPrint()
 //BirthdayCakeCandles.resultPrint()
 //TimeConversion.resultPrint()
-GradingStudents.resultPrint()
+//GradingStudents.resultPrint()
+NumberLineJumps.resultPrint()
