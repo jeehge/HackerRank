@@ -7,7 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E9140A28275ADBBE0004C1E8 /* BreakingtheRecords.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9140A27275ADBBE0004C1E8 /* BreakingtheRecords.swift */; };
 		E9293F622753D31E00D150D2 /* NumberLineJumps.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9293F612753D31E00D150D2 /* NumberLineJumps.swift */; };
+		E9293F642753EB3900D150D2 /* BetweenTwoSets.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9293F632753EB3900D150D2 /* BetweenTwoSets.swift */; };
 		E96412082746B94400A69ECA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96412072746B94400A69ECA /* main.swift */; };
 		E96412102746B96200A69ECA /* SolveMeFirst.swift in Sources */ = {isa = PBXBuildFile; fileRef = E964120F2746B96200A69ECA /* SolveMeFirst.swift */; };
 		E96412162747F2F100A69ECA /* CompareTheTriplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96412152747F2F100A69ECA /* CompareTheTriplets.swift */; };
@@ -34,7 +36,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		E9140A27275ADBBE0004C1E8 /* BreakingtheRecords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreakingtheRecords.swift; sourceTree = "<group>"; };
 		E9293F612753D31E00D150D2 /* NumberLineJumps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberLineJumps.swift; sourceTree = "<group>"; };
+		E9293F632753EB3900D150D2 /* BetweenTwoSets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetweenTwoSets.swift; sourceTree = "<group>"; };
 		E96412042746B94400A69ECA /* HackerRankStudy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HackerRankStudy; sourceTree = BUILT_PRODUCTS_DIR; };
 		E96412072746B94400A69ECA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		E964120F2746B96200A69ECA /* SolveMeFirst.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolveMeFirst.swift; sourceTree = "<group>"; };
@@ -99,6 +103,8 @@
 				E987D139274FB1CA00249FF1 /* TimeConversion.swift */,
 				E987D13B274FB2B100249FF1 /* GradingStudents.swift */,
 				E9293F612753D31E00D150D2 /* NumberLineJumps.swift */,
+				E9293F632753EB3900D150D2 /* BetweenTwoSets.swift */,
+				E9140A27275ADBBE0004C1E8 /* BreakingtheRecords.swift */,
 			);
 			path = Algorithms;
 			sourceTree = "<group>";
@@ -168,7 +174,9 @@
 				E9293F622753D31E00D150D2 /* NumberLineJumps.swift in Sources */,
 				E987D13C274FB2B100249FF1 /* GradingStudents.swift in Sources */,
 				E987D0DD274BCD0700249FF1 /* PlusMinus.swift in Sources */,
+				E9140A28275ADBBE0004C1E8 /* BreakingtheRecords.swift in Sources */,
 				E96412102746B96200A69ECA /* SolveMeFirst.swift in Sources */,
+				E9293F642753EB3900D150D2 /* BetweenTwoSets.swift in Sources */,
 				E987D13A274FB1CA00249FF1 /* TimeConversion.swift in Sources */,
 				E987D0DF274BD51300249FF1 /* Staircase.swift in Sources */,
 				E96412182748972200A69ECA /* AVeryBigSum.swift in Sources */,
