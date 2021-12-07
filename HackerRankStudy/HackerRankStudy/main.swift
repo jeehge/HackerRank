@@ -20,4 +20,5 @@ import Foundation
 //NumberLineJumps.resultPrint()
 //BetweenTwoSets().resultPrint()
 //BreakingtheRecords().resultPrint()
-AppleandOrange().resultPrint()
+//AppleandOrange().resultPrint()
+SimpleArraySum().resultPrint()

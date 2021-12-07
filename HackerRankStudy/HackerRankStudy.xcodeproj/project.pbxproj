@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		E9140A28275ADBBE0004C1E8 /* BreakingtheRecords.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9140A27275ADBBE0004C1E8 /* BreakingtheRecords.swift */; };
 		E9140A2A275AEA440004C1E8 /* AppleandOrange.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9140A29275AEA440004C1E8 /* AppleandOrange.swift */; };
+		E9140A2C275FBFFF0004C1E8 /* SimpleArraySum.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9140A2B275FBFFF0004C1E8 /* SimpleArraySum.swift */; };
 		E9293F622753D31E00D150D2 /* NumberLineJumps.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9293F612753D31E00D150D2 /* NumberLineJumps.swift */; };
 		E9293F642753EB3900D150D2 /* BetweenTwoSets.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9293F632753EB3900D150D2 /* BetweenTwoSets.swift */; };
 		E96412082746B94400A69ECA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = E96412072746B94400A69ECA /* main.swift */; };
@@ -39,6 +40,7 @@
 /* Begin PBXFileReference section */
 		E9140A27275ADBBE0004C1E8 /* BreakingtheRecords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreakingtheRecords.swift; sourceTree = "<group>"; };
 		E9140A29275AEA440004C1E8 /* AppleandOrange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleandOrange.swift; sourceTree = "<group>"; };
+		E9140A2B275FBFFF0004C1E8 /* SimpleArraySum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleArraySum.swift; sourceTree = "<group>"; };
 		E9293F612753D31E00D150D2 /* NumberLineJumps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberLineJumps.swift; sourceTree = "<group>"; };
 		E9293F632753EB3900D150D2 /* BetweenTwoSets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetweenTwoSets.swift; sourceTree = "<group>"; };
 		E96412042746B94400A69ECA /* HackerRankStudy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HackerRankStudy; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -108,6 +110,7 @@
 				E9293F632753EB3900D150D2 /* BetweenTwoSets.swift */,
 				E9140A27275ADBBE0004C1E8 /* BreakingtheRecords.swift */,
 				E9140A29275AEA440004C1E8 /* AppleandOrange.swift */,
+				E9140A2B275FBFFF0004C1E8 /* SimpleArraySum.swift */,
 			);
 			path = Algorithms;
 			sourceTree = "<group>";
@@ -183,6 +186,7 @@
 				E9293F642753EB3900D150D2 /* BetweenTwoSets.swift in Sources */,
 				E987D13A274FB1CA00249FF1 /* TimeConversion.swift in Sources */,
 				E987D0DF274BD51300249FF1 /* Staircase.swift in Sources */,
+				E9140A2C275FBFFF0004C1E8 /* SimpleArraySum.swift in Sources */,
 				E96412182748972200A69ECA /* AVeryBigSum.swift in Sources */,
 				E96412082746B94400A69ECA /* main.swift in Sources */,
 			);
