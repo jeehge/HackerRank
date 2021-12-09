@@ -21,4 +21,5 @@ import Foundation
 //BetweenTwoSets().resultPrint()
 //BreakingtheRecords().resultPrint()
 //AppleandOrange().resultPrint()
-SimpleArraySum().resultPrint()
+//SimpleArraySum().resultPrint()
+SubarrayDivision().resultPrint()
