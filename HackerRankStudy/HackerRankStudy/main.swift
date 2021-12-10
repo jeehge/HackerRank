@@ -22,4 +22,5 @@ import Foundation
 //BreakingtheRecords().resultPrint()
 //AppleandOrange().resultPrint()
 //SimpleArraySum().resultPrint()
-SubarrayDivision().resultPrint()
+//SubarrayDivision().resultPrint()
+CamelCase().resultPrint()
