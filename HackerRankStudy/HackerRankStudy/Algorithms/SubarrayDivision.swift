@@ -35,9 +35,7 @@ class SubarrayDivision: ResultPresentable {
         }
         
         let s: [Int] = [2, 2, 1, 3, 2]
-        
         let d = 4
-
         let m = 2
 
         let result = birthday(s: s, d: d, m: m)
