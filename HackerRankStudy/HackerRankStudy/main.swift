@@ -24,4 +24,5 @@ import Foundation
 //SimpleArraySum().resultPrint()
 //SubarrayDivision().resultPrint()
 //CamelCase().resultPrint()
-SuperReducedString().resultPrint()
+//SuperReducedString().resultPrint()
+DivisibleSumPairs().resultPrint()
