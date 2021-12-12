@@ -23,4 +23,5 @@ import Foundation
 //AppleandOrange().resultPrint()
 //SimpleArraySum().resultPrint()
 //SubarrayDivision().resultPrint()
-CamelCase().resultPrint()
+//CamelCase().resultPrint()
+SuperReducedString().resultPrint()
