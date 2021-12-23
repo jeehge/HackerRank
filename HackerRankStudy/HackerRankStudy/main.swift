@@ -25,4 +25,5 @@ import Foundation
 //SubarrayDivision().resultPrint()
 //CamelCase().resultPrint()
 //SuperReducedString().resultPrint()
-DivisibleSumPairs().resultPrint()
+//DivisibleSumPairs().resultPrint()
+MigratoryBirds().resultPrint()
