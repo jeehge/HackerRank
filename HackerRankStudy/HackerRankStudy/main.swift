@@ -26,4 +26,5 @@ import Foundation
 //CamelCase().resultPrint()
 //SuperReducedString().resultPrint()
 //DivisibleSumPairs().resultPrint()
-MigratoryBirds().resultPrint()
+//MigratoryBirds().resultPrint()
+DayoftheProgrammer().resultPrint()

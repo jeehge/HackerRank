@@ -28,6 +28,7 @@
 		E987D13A274FB1CA00249FF1 /* TimeConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = E987D139274FB1CA00249FF1 /* TimeConversion.swift */; };
 		E987D13C274FB2B100249FF1 /* GradingStudents.swift in Sources */ = {isa = PBXBuildFile; fileRef = E987D13B274FB2B100249FF1 /* GradingStudents.swift */; };
 		E9C3AED127744FB7003153E7 /* MigratoryBirds.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9C3AED027744FB7003153E7 /* MigratoryBirds.swift */; };
+		E9DCAA1427780C4B00A3AB73 /* DayoftheProgrammer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9DCAA1327780C4B00A3AB73 /* DayoftheProgrammer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -65,6 +66,7 @@
 		E987D139274FB1CA00249FF1 /* TimeConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeConversion.swift; sourceTree = "<group>"; };
 		E987D13B274FB2B100249FF1 /* GradingStudents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradingStudents.swift; sourceTree = "<group>"; };
 		E9C3AED027744FB7003153E7 /* MigratoryBirds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MigratoryBirds.swift; sourceTree = "<group>"; };
+		E9DCAA1327780C4B00A3AB73 /* DayoftheProgrammer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayoftheProgrammer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 				E9140A31276316370004C1E8 /* CamelCase.swift */,
 				E9140A33276493020004C1E8 /* SuperReducedString.swift */,
 				E9C3AED027744FB7003153E7 /* MigratoryBirds.swift */,
+				E9DCAA1327780C4B00A3AB73 /* DayoftheProgrammer.swift */,
 			);
 			path = Algorithms;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 				E9140A2E276229140004C1E8 /* SubarrayDivision.swift in Sources */,
 				E9293F642753EB3900D150D2 /* BetweenTwoSets.swift in Sources */,
 				E9140A34276493020004C1E8 /* SuperReducedString.swift in Sources */,
+				E9DCAA1427780C4B00A3AB73 /* DayoftheProgrammer.swift in Sources */,
 				E987D13A274FB1CA00249FF1 /* TimeConversion.swift in Sources */,
 				E987D0DF274BD51300249FF1 /* Staircase.swift in Sources */,
 				E9140A2C275FBFFF0004C1E8 /* SimpleArraySum.swift in Sources */,
